@@ -54,7 +54,7 @@ I want to create ai project like : Youtube Video link To Article/content/Blog ge
 Need user login/registration before blog generation. Admin login required.
 Streamlit/SQLite DB 
 --------------------------------------------------------------------------------
-
+AI Girl Friend App / Boyfriend app
 --------------------------------------------------------------------------------
 Text or Image to Video Generate :
 Project :https://arena.ai/c/019ed226-ce9d-7317-b54e-0fdb075d7054
