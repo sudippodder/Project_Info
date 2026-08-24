@@ -18,22 +18,24 @@ https://arena.ai/c/019ef133-0fae-7cc0-a4c1-471b93acb1d9
 Build agents for my products Lead search.
 --------------------------------------------------------------------------------
 Create Game (Gopal bhar runner )
---------------------------------------------------------------------------------
+
+gopal bhar runner
 Copy game source code , change the character.
-
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 
 --------------------------------------------------------------------------------
-Youtube Video To Article/content/Blog
---------------------------------------------------------------------------------
+Youtube Video To Article/content/Blog : 
 Youtube video encryption 
 
 I want to create ai project like : Youtube Video link To Article/content/Blog generation. Need documentation guideline with agent flow.
 Need user login/registration before blog generation. Admin login required.
 Streamlit/SQLite DB 
 --------------------------------------------------------------------------------
-Text or Image to Video Generate :
+
 --------------------------------------------------------------------------------
+Text or Image to Video Generate :
 Project :https://arena.ai/c/019ed226-ce9d-7317-b54e-0fdb075d7054
 Search Category > Story creation > create video or images
 
@@ -47,6 +49,7 @@ https://arena.ai/c/019f18c7-60fb-7a1e-8e15-f1db98b44db2
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Project : Share Market suggestion : multi agents
+Agent will analisys , make task and do those task and analysis them
 --------------------------------------------------------------------------------
 
 
