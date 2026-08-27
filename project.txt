@@ -1,7 +1,7 @@
 AI Handle Desktop:
 You ask → Agent understands → plans → gets permission if needed → controls the device → completes the task → reports the result.
 
-
+https://chatgpt.com/c/6a8c9cd3-8a20-83ee-a90a-8a0289ec19c7
 --------------------------------------------------------------------------------
 Resume Builder : Rag Base 
 I will update/ upload some resume 
@@ -45,7 +45,7 @@ For example, the same agent could become:
 
 --------------------------------------------------------------------------------
 DealAI — Your Personal Deal Agent
-
+https://chatgpt.com/c/6a897f47-2e20-83ee-b7c5-c6dc326f0b91
 --------------------------------------------------------------------------------
 Youtube Video To Article/content/Blog : 
 Youtube video encryption 
@@ -70,6 +70,7 @@ https://arena.ai/c/019f18c7-60fb-7a1e-8e15-f1db98b44db2
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Project : Share Market suggestion : multi agents
+https://chatgpt.com/c/6a893097-fc38-83e8-b107-4d92b895c558
 Agent will analisys , make task and do those task and analysis them
 --------------------------------------------------------------------------------
 
