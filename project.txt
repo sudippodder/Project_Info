@@ -2,6 +2,12 @@ AI Handle Desktop:
 You ask → Agent understands → plans → gets permission if needed → controls the device → completes the task → reports the result.
 
 https://chatgpt.com/c/6a8c9cd3-8a20-83ee-a90a-8a0289ec19c7
+
+
+# ==========================================
+# AI Girlfriend App - Git Ignore Specification  : D:\AI\Girl_friend_apodex
+# Singing Voice Conversion and Song Transfer Pipeline : D:\AI\AI_update_singer_voice
+
 --------------------------------------------------------------------------------
 Resume Builder : Rag Base 
 I will update/ upload some resume 
