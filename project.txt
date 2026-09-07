@@ -3,6 +3,17 @@
 # Singing Voice Conversion and Song Transfer Pipeline : D:\AI\AI_update_singer_voice : https://github.com/sudippodder/singer_voice_update
 # AI vps server Build : 
 ------------------------------------------------------------------------------------------
+
+https://www.apodex.ai/
+
+https://openrouter.ai/
+https://chat.z.ai/  : glm
+https://v0.app/ns-7070  : fable
+https://freemodels.pro/
+https://monkeycode-ai.net/
+
+------------------------------------------------------------------------------------------
+
 AI Handle Desktop:
 You ask → Agent understands → plans → gets permission if needed → controls the device → completes the task → reports the result.
 
