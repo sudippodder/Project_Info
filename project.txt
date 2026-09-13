@@ -9,23 +9,25 @@ dental clinics, real estate brokers, coaching centers
 
 find business > send msg with issues. (need automation)
 --------------------------------------------------------------------
-olx app : buy or sell old home products like olx.com 
-ai girl friend
-voice translator
-ai assistant 
-ai mobile controll or manager 
-pdf reader
-mobile Game like gopal runner
+**olx app : buy or sell old home products like olx.com 
+**ai girl friend
+**voice translator
+**ai assistant 
+**ai mobile controll or manager 
+**pdf reader
+**mobile Game like gopal runner
 -------------------------------------------------------------------------------
 mobile app, which can handle mobile like mobile assistant : THis will be a mobile assistant , who will get command from voice and finish the task.
 User will open the app and will start the assistant like name "zombi". User will provide voice command like "zombi, open the youtube and play dil to pagal hain, song"
 Assistant will open the youtube app and play the song as per command(when assistant will start one cursor will visible, who will work like assistant). Build implementation plan for this app.
 -------------------------------------------------------------------------------
-children cartoon video, search story and create cartoon video
-Motivitional speach(create motivitional speach Using AI)
-Tutorial video Using AI.
-Marketing Web-App
-Gimini color book sell.
+**children cartoon video, search story and create cartoon video
+**Motivitional speach(create motivitional speach Using AI)
+**Tutorial video Using AI.
+**Marketing Web-App
+**Gimini color book sell.
+**ai Room Decoration
+**Daily Deal
 
 
 -------------------------
