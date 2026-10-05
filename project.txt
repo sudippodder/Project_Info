@@ -18,6 +18,19 @@ on the web for you and share the details with, from where you will get best deal
 ***astrologer app
 *** digital Marketing APP
 *** tts service API : https://tts.nstechservice.shop/
+------------------------------------------------------------------
+local_llm
+DEFAULT_BASE_URL = os.getenv("LLM_BASE_URL", "https://app.nstechservice.shop/api/llm/v1")
+#DEFAULT_API_KEY = os.getenv("LLM_API_KEY", "b4TLio3jtviFrFHHIAHWzYDX93ZGxTUcplWmshOAugg=")
+DEFAULT_API_KEY = os.getenv("LLM_API_KEY", "svi8NjZ4noUtGetwNoyRg/b91EAWKGe0CVGwtkwhRcQ=")
+
+#DEFAULT_MODEL = os.getenv("LLM_MODEL", "Qwen3.8-27B-Q4_K_M.gguf")
+DEFAULT_MODEL = os.getenv("LLM_MODEL", "qwen2.5:7b")
+DEFAULT_SYSTEM_PROMPT = os.getenv(
+    "LLM_SYSTEM_PROMPT", 
+    "You are a helpful, professional, and intelligent AI assistant."
+)
+-------------------------------------------------------------
 **olx app : buy or sell old home products like olx.com 
 **ai girl friend
 **voice translator
